@@ -8,3 +8,4 @@ I also faced alot of difficulties with my visual studio. However, I testing the 
 Subsequently, if I run any syntax on my computer and it doesn't work, then I'll just provide a notepad with the syntax for grading. I don't mind losing points for the product. Moreover, I'll also be expecting feedback on my challenges to see how I can make significant improvement.
 
 
+please see the file that called "pycitysch_syntax.txt" for all the syntaxes used. Thank you.
